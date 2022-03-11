@@ -4,7 +4,7 @@ package aula4;
 
 /**
  *
- * @author lucasnoreirapacheco
+ * @author lucasmoreirapacheco
  */
 public class Main {
 
