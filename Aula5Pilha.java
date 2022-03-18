@@ -27,7 +27,7 @@
 //		Stack<String> pilhaI = new Stack<>();
 //		
 //		pilha.push("Ler projeto");
-//		pilha.push("Pesquisar padrıes");
+//		pilha.push("Pesquisar padr√µes");
 //		pilha.push("Codificar");
 //		pilha.push("Testar");	
 //		
@@ -83,7 +83,7 @@ public class Main {
 	
 	
 	for(int i=0;i<20;i++) {
-	System.out.println("Escreva o n˙mero: "+(i+1+":"));	
+	System.out.println("Escreva o n√∫mero: "+(i+1+":"));	
 		n = rand.nextInt(20);
 		
 		
